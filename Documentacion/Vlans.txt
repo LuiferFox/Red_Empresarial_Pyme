@@ -1,0 +1,5 @@
+VLAN 10 - Administración
+VLAN 20 - Ventas
+VLAN 30 - Soporte
+VLAN 40 - Invitados
+VLAN 999 - Parking Lot

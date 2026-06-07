@@ -1,0 +1,7 @@
+Prueba DHCP: Exitosa.
+
+Prueba Inter-VLAN: Exitosa.
+
+Prueba ACL: Invitados no pueden acceder a Administración.
+
+Prueba Port Security: Configurado correctamente.

@@ -1,0 +1,8 @@
+Controles implementados:
+
+- ACL para restringir acceso de invitados.
+- Port Security con Sticky MAC.
+- VLAN 999 para puertos no utilizados.
+- Shutdown de puertos sin uso.
+- DTP deshabilitado.
+- CDP deshabilitado en puertos de usuario.
